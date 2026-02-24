@@ -3,12 +3,20 @@
 Projeto de sistema web para gerenciamento de acervo (obra e usuários), desenvolvido como trabalho final de curso. A aplicação foi implementada com PHP, HTML, CSS e JavaScript com foco em operações básicas de CRUD, autenticação e controle de privilégios administrativos.
 
 ## Visão geral
+<img width="1366" height="933" alt="image" src="https://github.com/user-attachments/assets/46a16e15-88eb-4ff2-89d0-fcd70d6198c7" />
 
 O sistema permite:
 - Listar e buscar obras no acervo.
+<img width="947" height="934" alt="image" src="https://github.com/user-attachments/assets/1b4da220-4ed4-4a4b-bd99-c0cf1d72c326" />
+
 - Cadastrar, editar e excluir obras (área administrativa).
+<img width="1006" height="943" alt="image" src="https://github.com/user-attachments/assets/aca6dba1-94cc-4e73-8975-0b2756a6d54f" />
+
 - Gerenciar usuários (bloquear/desbloquear, cadastrar).
+<img width="1319" height="945" alt="image" src="https://github.com/user-attachments/assets/1e89072b-6d18-424e-b51e-92b562873619" />
+
 - Favoritar/desfavoritar obras (funcionalidade de usuário).
+<img width="1341" height="857" alt="image" src="https://github.com/user-attachments/assets/7bc60bbe-3fca-431f-a998-f9ce70716c96" />
 
 ## Tecnologias
 
