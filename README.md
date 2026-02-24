@@ -1,4 +1,4 @@
-# Sistema de Acervo — TCC
+# Sistema de Acervo de Museu
 
 Projeto de sistema web para gerenciamento de acervo (obra e usuários), desenvolvido como trabalho final de curso. A aplicação foi implementada com PHP, HTML, CSS e JavaScript com foco em operações básicas de CRUD, autenticação e controle de privilégios administrativos.
 
